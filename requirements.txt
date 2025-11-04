@@ -1,0 +1,5 @@
+aiogram==3.4.1        # Библиотека для Telegram-бота
+aiohttp==3.9.5        # Для асинхронных запросов к вашему ИИ-сервису
+python-dotenv==1.0.1  # Для чтения .env файла
+google-generativeai
+python-docx
